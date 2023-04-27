@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - deternine if a number is positive negetive or zero.
- * 0 : is the number to be checked
+ * main - Deternine if a number is positive negetive or zero.
+{* 0 : is the number to be checked
  *Return: 0 on success
  */
 void positive_or_negative(int i)
@@ -19,4 +19,5 @@ else
 printf("%d is %s\n", i, "zero");
 }
 return;
+
 }
